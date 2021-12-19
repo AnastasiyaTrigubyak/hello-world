@@ -1,2 +1,2 @@
 # hello-world
-My study repository
+different from main content
